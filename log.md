@@ -9,5 +9,5 @@ Random Quote Machine - React JS Version
 ### Day 4: January 11, 2017
 Weather Application - Vanilla JS Version
 
-### Day 5: January 12, 2017
+### Day 5-6: January 12, 2017
 Express
