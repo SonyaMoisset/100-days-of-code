@@ -5,3 +5,4 @@
 # Project 3: Weather App - Vanilla JS Version => Weather App - Gulp JS Version
 # Project 4: Simple ExpressJS Landing Page
 # Project 5: Update Personal Website
+# Project 6: [Github Profile App - Vanilla JS Version](https://github.com/SonyaMoisset/Github-Profile-Vanilla_JS)
