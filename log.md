@@ -12,5 +12,8 @@ Weather Application - Vanilla JS Version
 ### Day 5-7: January 12, 2017
 Express
 
-### Day 7; January 15, 2017
+### Day 7: January 15, 2017
 Weather Application - Gulp JS Version
+
+### Day 8: January 16, 2017
+GitHub Profile Application - API/fetch()
