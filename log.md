@@ -20,3 +20,6 @@ GitHub Profile Application - API/fetch()
 
 ### Day 9: January 17, 2017
 Reading on Deep and Machine Learning
+
+### Day 10: January 18, 2017
+GitHub Profile Application - React JS Version + Start Android Development Track
