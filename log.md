@@ -17,3 +17,6 @@ Weather Application - Gulp JS Version
 
 ### Day 8: January 16, 2017
 GitHub Profile Application - API/fetch()
+
+### Day 9: January 17, 2017
+Reading on Deep and Machine Learning
