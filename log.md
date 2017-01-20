@@ -23,3 +23,6 @@ Reading on Deep and Machine Learning
 
 ### Day 10: January 18, 2017
 GitHub Profile Application - React JS Version + Start Android Development Track
+
+### Day 11-12: January 19, 2017
+Fun Facts Generator | Android Development
