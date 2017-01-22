@@ -26,3 +26,6 @@ GitHub Profile Application - React JS Version + Start Android Development Track
 
 ### Day 11-12: January 19, 2017
 Fun Facts Generator | Android Development
+
+### Day 13: January 22, 2017
+Interactive Story | Android Development
