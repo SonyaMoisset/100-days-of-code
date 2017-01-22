@@ -6,4 +6,5 @@
 # Project 4: Simple ExpressJS Landing Page
 # Project 5: Update Personal Website
 # Project 6: [Github Profile App - Vanilla JS Version](https://github.com/SonyaMoisset/Github-Profile-Vanilla_JS)
-# Project 7; Fun Facts Generator | Android Development
+# Project 7: Fun Facts Generator | Android Development
+# Project 8: Interactive Story | Android Development
