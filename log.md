@@ -16,7 +16,7 @@ Express
 Weather Application - Gulp JS Version
 
 ### Day 8: January 16, 2017
-GitHub Profile Application - API/fetch()
+GitHub Profile Application - API/fetch() | Vanilla JS Version
 
 ### Day 9: January 17, 2017
 Reading on Deep and Machine Learning
@@ -29,3 +29,6 @@ Fun Facts Generator | Android Development
 
 ### Day 13: January 22, 2017
 Interactive Story | Android Development
+
+### Day 14: January 23, 2017
+GitHub Profile Application - API/fetch() | React JS Version
