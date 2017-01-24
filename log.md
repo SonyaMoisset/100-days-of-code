@@ -32,3 +32,6 @@ Interactive Story | Android Development
 
 ### Day 14: January 23, 2017
 GitHub Profile Application - API/fetch() | React JS Version
+
+### Day 15: January 24, 2017
+Weather App | Android Development
