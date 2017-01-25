@@ -10,7 +10,7 @@ Random Quote Machine - React JS Version
 Weather Application - Vanilla JS Version
 
 ### Day 5-7: January 12, 2017
-Express
+Express | Personal Website Update
 
 ### Day 7: January 15, 2017
 Weather Application - Gulp JS Version
@@ -35,3 +35,6 @@ GitHub Profile Application - API/fetch() | React JS Version
 
 ### Day 15: January 24, 2017
 Weather App | Android Development
+
+### Day 16: January 15, 2017
+Express | Personal Website Update
