@@ -36,5 +36,5 @@ GitHub Profile Application - API/fetch() | React JS Version
 ### Day 15: January 24, 2017
 Weather App | Android Development
 
-### Day 16: January 15, 2017
+### Day 16-17: January 15, 2017
 Express | Personal Website Update
