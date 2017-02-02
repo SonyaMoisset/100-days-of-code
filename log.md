@@ -45,3 +45,6 @@ Weather App | Android Development
 ### Day 19: January 30, 2017
 Weather App | Android Development
 Emberjs | Super rental App
+
+### Day 20: February 1, 2017
+JavaScript | NodeJS
