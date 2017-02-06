@@ -48,3 +48,7 @@ Emberjs | Super rental App
 
 ### Day 20: February 1, 2017
 JavaScript | NodeJS
+
+### Day 21: February 5, 2017
+Express | NodeJS
+Personal Website Update
