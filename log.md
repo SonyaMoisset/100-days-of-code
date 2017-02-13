@@ -58,3 +58,6 @@ New JS article on Medium
 
 ### Day 23-28: February 8, 2017
 Android Development
+
+### Day 29: February 9, 2017
+New JS article on Medium
