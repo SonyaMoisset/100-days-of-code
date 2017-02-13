@@ -52,3 +52,9 @@ JavaScript | NodeJS
 ### Day 21: February 5, 2017
 Express | NodeJS
 Personal Website Update
+
+### Day 22: February 7, 2017
+New JS article on Medium
+
+### Day 23-28: February 8, 2017
+Android Development
