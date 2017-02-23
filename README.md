@@ -10,3 +10,4 @@
 # Project 7: Fun Facts Generator | Android Development
 # Project 8: Interactive Story | Android Development
 # Project 9: Weather App | Android Development
+# Project 10: [Tribute Page | React JS Version](https://github.com/SonyaMoisset/HedyLamar)
