@@ -61,3 +61,7 @@ Android Development
 
 ### Day 29: February 9, 2017
 New JS article on Medium
+
+### Day 30-40: February 22, 2017
+Android Development
+Personal Website Update
